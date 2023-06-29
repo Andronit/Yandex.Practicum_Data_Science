@@ -28,7 +28,7 @@
 * feed rate — скорость подачи
   
 ### Используемые инструменты
-Matplotlib, NumPy, Pandas, Python, Scikit-learn, исследовательский анализ данных
+`Matplotlib` `NumPy` `Pandas` `Python` `Scikit-learn` `исследовательский анализ данных`
 
 ### Модели
 `LinearRegression` `DecisionTreeRegressor` `RandomForestRegressor` `DummyRegressor`
