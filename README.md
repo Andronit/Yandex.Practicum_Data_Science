@@ -2,10 +2,6 @@
 
 Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикум
 
-### О курсе / About program
-
-- Ссылка на курс: https://practicum.yandex.ru/data-scientist/
-
 ### Содержание: / Content:
 
  - [Анализ игровых платформ / Common project - *Project 1*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/d29dce5a7dbb43540651394d748c0548d032b29e/Project_1%20-%20Games%20platforms)
