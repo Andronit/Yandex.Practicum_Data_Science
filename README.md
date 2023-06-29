@@ -2,16 +2,6 @@
 
 Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикум
 
-### Содержание: / Content:
-
- - [Анализ игровых платформ / Common project - *Project 1*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/d29dce5a7dbb43540651394d748c0548d032b29e/Project_1%20-%20Games%20platforms)
- - [Добыча золотой руды / Common project  - *Project_2*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/3313ba41e2bcb2e30d15ba5601b5417fba5d054f/Project_2%20-%20Gold%20recovery)
- - [Машинное обучение для текстов / Machine learning for texts  - *Project_3*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/3313ba41e2bcb2e30d15ba5601b5417fba5d054f/Project_3%20-%20NLP%20Toxic%20comments)
- - [Компьютерное зрение / Computer vision  - *Project_4*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/3313ba41e2bcb2e30d15ba5601b5417fba5d054f/Project_4%20-%20CV%20Age%20prediction)
- - [**Телеком, выпускной проект / Telecom**  - *Project_5/final*](https://github.com/Andronit/Yandex.Practicum_Data_Science/tree/3313ba41e2bcb2e30d15ba5601b5417fba5d054f/Final_project%20-%20Telecom)
-
-
-
 ## Проекты
 
 |№| Название | Общая информация | Навыки и инструменты |
